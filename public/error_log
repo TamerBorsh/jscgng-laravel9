@@ -1,0 +1,19 @@
+[30-Oct-2022 09:33:07 UTC] PHP Warning:  require(/home/jscgng/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/jscgng/public_html/vendor/composer/autoload_real.php on line 55
+[30-Oct-2022 09:33:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jscgng/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/jscgng/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/jscgng/public_html/vendor/composer/autoload_real.php(38): composerRequire879ac28980901bdc2f7c13c83229c7bc('0e6d7bf4a5811bf...', '/home/jscgng/pu...')
+#1 /home/jscgng/public_html/vendor/autoload.php(12): ComposerAutoloaderInit879ac28980901bdc2f7c13c83229c7bc::getLoader()
+#2 /home/jscgng/public_html/public/index.php(34): require('/home/jscgng/pu...')
+#3 {main}
+  thrown in /home/jscgng/public_html/vendor/composer/autoload_real.php on line 55
+[30-Oct-2022 09:33:09 UTC] PHP Warning:  require(/home/jscgng/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home/jscgng/public_html/vendor/composer/autoload_real.php on line 55
+[30-Oct-2022 09:33:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jscgng/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/jscgng/public_html/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/jscgng/public_html/vendor/composer/autoload_real.php(38): composerRequire879ac28980901bdc2f7c13c83229c7bc('667aeda72477189...', '/home/jscgng/pu...')
+#1 /home/jscgng/public_html/vendor/autoload.php(12): ComposerAutoloaderInit879ac28980901bdc2f7c13c83229c7bc::getLoader()
+#2 /home/jscgng/public_html/public/index.php(34): require('/home/jscgng/pu...')
+#3 {main}
+  thrown in /home/jscgng/public_html/vendor/composer/autoload_real.php on line 55
+[02-Nov-2022 10:18:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2310144 bytes) in /home/jscgng/public_html/vendor/spatie/flare-client-php/src/Truncation/ReportTrimmer.php on line 40
+[02-Nov-2022 10:18:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2310144 bytes) in /home/jscgng/public_html/vendor/spatie/flare-client-php/src/Truncation/ReportTrimmer.php on line 40
+[02-Nov-2022 10:22:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2310144 bytes) in /home/jscgng/public_html/vendor/spatie/flare-client-php/src/Truncation/ReportTrimmer.php on line 40

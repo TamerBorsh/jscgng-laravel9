@@ -1,0 +1,15 @@
+.activities header.title_ h3, .latest_projects header.title_ h3, .galleries header.title_ h3 {
+    border-left: 20px solid transparent;
+    border-right: 0 !important;
+}
+
+.activities .link,
+.latest_projects .link,
+.galleries .link {
+    float: left !important;
+}
+
+
+.custom_header .logo img {
+    float: right;
+}

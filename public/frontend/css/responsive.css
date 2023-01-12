@@ -1,0 +1,178 @@
+@media screen and (max-width : 1280px) {}
+
+/*====================================================================*/
+@media screen and (max-width : 1024px) {
+    .topic_img {
+        height: 110px;
+    }
+}
+
+/*====================================================================*/
+@media screen and (max-width : 768px) {
+    .slider button.owl-next {
+        right: 42%;
+    }
+
+    .slider button.owl-prev {
+        left: 42%;
+    }
+
+    .slider .item {
+        height: 380px;
+    }
+
+    .col-md-8,
+    .col-md-6 {
+        width: 100%;
+    }
+
+    .col-md-4 {
+        width: 50%;
+    }
+
+    .face.col-md-4 {
+        width: 100%;
+    }
+
+    .col {
+        width: 50%;
+    }
+
+    .topic_img,
+    .projects_image,
+    .galleries .item .ImageExhibitionImg {
+        height: 100%;
+    }
+
+    footer.footer a.nav-link {
+        padding: 10px 20px;
+    }
+
+    footer.footer ul.navbar-nav {
+        display: contents;
+    }
+
+    footer.footer .social_icon {
+        margin: 0;
+    }
+
+    .foo {
+        margin: auto;
+        text-align: center;
+    }
+
+    .social_icon {
+        text-align: center !important;
+    }
+
+    .post_details .sub_title h1 {
+        font-size: 16px;
+    }
+}
+
+/*====================================================================*/
+@media screen and (max-width : 736px) {
+    .container {
+        max-width: 100%;
+    }
+    .post_details .title {
+        display: block;
+        height: auto;
+    }
+    .post_details .sub_date, .sub_views {
+        display: none;
+    }
+}
+
+/*====================================================================*/
+@media screen and (max-width : 734px) {}
+
+/*====================================================================*/
+@media screen and (max-width : 684px) {}
+
+/*====================================================================*/
+@media screen and (max-width : 667px) {}
+
+/*====================================================================*/
+@media screen and (max-width : 640px) {
+
+    .col-md-8,
+    .col-md-6,
+    .col-md-4,
+    .col {
+        width: 100%;
+    }
+
+    .galleries .item {
+        height: auto;
+    }
+    .post_details, .container {
+        padding: 0;
+    }
+    .post_details .content img {
+        display: block;
+        width: 100% !important;
+    }
+}
+
+/*====================================================================*/
+@media screen and (max-width :576px) {
+    .slider button.owl-prev {
+        left: 40%;
+    }
+
+    .slider button.owl-next {
+        right: 40%;
+    }
+}
+
+/*====================================================================*/
+@media screen and (max-width : 480px) {
+    .slider button.owl-prev {
+        left: 38%;
+    }
+
+    .slider button.owl-next {
+        right: 38%;
+    }
+
+    footer.footer ul.navbar-nav {
+        display: flex;
+    }
+}
+
+/*====================================================================*/
+@media screen and (max-width : 414px) {
+    .slider button.owl-prev {
+        left: 36%;
+    }
+
+    .slider button.owl-next {
+        right: 36%;
+    }
+}
+
+/*====================================================================*/
+@media screen and (max-width : 375px) {
+    .slider button.owl-prev {
+        left: 35%;
+    }
+
+    .slider button.owl-next {
+        right: 35%;
+    }
+}
+
+/*====================================================================*/
+@media screen and (max-width : 320px) {
+    .slider button.owl-prev {
+        left: 33%;
+    }
+
+    .slider button.owl-next {
+        right: 33%;
+    }
+}
+
+/*====================================================================*/
+@media screen and (max-width : 684px) {}
